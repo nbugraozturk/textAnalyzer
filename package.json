@@ -1,0 +1,19 @@
+{
+  "name": "textanalyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbugraozturk/textAnalyzer.git"
+  },
+  "author": "numanbugra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbugraozturk/textAnalyzer/issues"
+  },
+  "homepage": "https://github.com/nbugraozturk/textAnalyzer#readme"
+}
